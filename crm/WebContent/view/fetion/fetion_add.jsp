@@ -1,5 +1,4 @@
 <%@ page language="java" import="java.util.*,com.sxxy.po.*" pageEncoding="utf-8"%>
-<%@page import="com.sxxy.customerSource.customerSourceTest"%>
 <%
 String path = request.getContextPath();
 String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";

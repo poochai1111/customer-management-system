@@ -317,10 +317,6 @@
     <url-pattern>/servlet/UserUpdateServlet</url-pattern>
   </servlet-mapping>
   <servlet-mapping>
-    <servlet-name>LoginCheckServlet</servlet-name>
-    <url-pattern>/servlet/LoginCheckServlet</url-pattern>
-  </servlet-mapping>
-  <servlet-mapping>
     <servlet-name>EmailAddServlet</servlet-name>
     <url-pattern>/servlet/EmailAddServlet</url-pattern>
   </servlet-mapping>
