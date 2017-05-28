@@ -22,7 +22,7 @@ public class DBCon {
 	public static Connection getConnection() {
 
 		try {
-			String url = "jdbc:mysql://127.0.0.1:3306/crm?user=root&password=root";
+			String url = "jdbc:mysql://127.0.0.1:3306/crm?user=root&password=123456";
 			// 加载驱动
 			Class.forName("com.mysql.jdbc.Driver");
 			// 获取连接
